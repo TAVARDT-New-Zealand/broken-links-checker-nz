@@ -1,14 +1,13 @@
 # Broken Link Checker and Dead Link Auditor
 
 [![Broken Link Checker](https://img.shields.io/badge/TAVARDT-Broken%20Links-5b3cf5.svg)](https://tools.tavardt.com/nz/broken-link-checker/)
-[![Jurisdiction](https://img.shields.io/badge/Jurisdiction-New%20Zealand-00C853.svg)](https://ag.tavardt.com/nz/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Rigorous auditing of hyperlinks to eliminate 404 dead ends and protect crawl efficiency.
 
-Developed and maintained by the software architecture team at **[TAVARDT New Zealand](https://ag.tavardt.com/nz/)**.
+Developed and maintained by the software architecture team at **TAVARDT New Zealand**.
 
----
+***
 
 ## Broken Link Auditing Highlights
 
@@ -18,7 +17,7 @@ Developed and maintained by the software architecture team at **[TAVARDT New Zea
 * **Descriptive Anchor Validation**: Verification of anchor text context and clarity.
 * **Link Health Index**: Technical rating from 0 to 100 with comprehensive issue lists.
 
----
+***
 
 ## Installation and Execution
 
@@ -33,20 +32,20 @@ python broken_links_scanner.py https://enterprise.co.nz
 Run in JSON mode:
 
 ```bash
-python broken_links_scanner.py https://enterprise.co.nz --json
+python broken_links_scanner.py https://enterprise.co.nz -json
 ```
 
----
+***
 
 ## New Zealand Web Diagnostic Suite
 
 For real-time cloud-based hyperlink testing:
 
-* **[Official Broken Link Checker](https://tools.tavardt.com/nz/broken-link-checker/)**
-* **[TAVARDT New Zealand Portal](https://ag.tavardt.com/nz/)**
+* **Official Broken Link Checker**
+* **TAVARDT New Zealand Portal**
 
----
+***
 
 ## New Zealand Technical Enquiries
 
-For consultation aligned with NZ Government Web Usability Standards and W3C Specifications, get in touch with **[TAVARDT New Zealand](https://ag.tavardt.com/nz/contact/)**.
+For consultation aligned with NZ Government Web Usability Standards and W3C Specifications, get in touch with **TAVARDT New Zealand**.
