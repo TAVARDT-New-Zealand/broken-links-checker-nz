@@ -49,3 +49,7 @@ For real-time cloud-based hyperlink testing:
 ## New Zealand Technical Enquiries
 
 For consultation aligned with NZ Government Web Usability Standards and W3C Specifications, get in touch with **TAVARDT New Zealand**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
