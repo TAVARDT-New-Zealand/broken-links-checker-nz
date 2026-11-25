@@ -6,8 +6,6 @@
 
 Rigorous auditing of hyperlinks to eliminate 404 dead ends and protect crawl efficiency.
 
-Developed and maintained by the software architecture team at **TAVARDT**.
-
 ***
 
 ## Broken Link Auditing Highlights
@@ -38,15 +36,6 @@ python broken_links_scanner.py https://enterprise.co.nz -json
 
 ***
 
-## New Zealand Web Diagnostic Suite
-
-For real-time cloud-based hyperlink testing:
-
-* **Official Broken Link Checker**
-* **TAVARDT Portal**
-
-***
-
 ## New Zealand Technical Enquiries
 
 For consultation aligned with NZ Government Web Usability Standards and W3C Specifications, get in touch with **TAVARDT**.
@@ -62,7 +51,7 @@ For consultation aligned with NZ Government Web Usability Standards and W3C Spec
 ***
 
 ### License
-Released under the MIT License. See [LICENSE](LICENSE) for full details.
+Released under the MIT License.
 
 ***
 
